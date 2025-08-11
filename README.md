@@ -7,7 +7,7 @@
 Data Science Researcher, student leader, and environmentalist passionate about using <b>data, modeling, and machine learning</b> to produce <b>AI solutions</b> and shift systems toward a <b>renewable, net-zero future</b>.
 </p>
 
-<hr style="width: 65%; margin-left: 0; border: 1px solid #ccc;" />
+<hr style="width: 85%; margin-left: 0; border: 1px solid #ccc;" />
 
 <h2>🌍 Here's What I'm Building</h2>
 
