@@ -11,10 +11,10 @@ Data Science Researcher, student leader, and environmentalist passionate about u
 
 <h2>🌍 Here's What I'm Building</h2>
 
+- <b><a href="https://github.com/itszoetom/neuronalDataResearch">neuronalDataResearch</a></b> – Analysis of large-scale neural recordings for sound discrimination, PCA, LDA, and more.  
 - <b><a href="https://github.com/itszoetom/ESGStockPriceModel">ESGStockPriceModel</a></b> – Data normalization + modeling to explore the relationship between ESG and stock performance.  
 - <b><a href="https://github.com/itszoetom/bondsPCA">bondsPCA</a></b> – Applying Principal Component Analysis to bond yield curves to uncover hidden market structure.  
 - <b><a href="https://github.com/itszoetom/WiDSDatathon">WiDSDatathon</a></b> – Women in Data Science competition project focused on predictive modeling and impactful analytics.  
-- <b><a href="https://github.com/itszoetom/neuronalDataResearch">neuronalDataResearch</a></b> – Analysis of large-scale neural recordings for sound discrimination, PCA, LDA, and more.  
 
 <hr style="width: 65%; margin-left: 0; border: 1px solid #ccc;" />
 
