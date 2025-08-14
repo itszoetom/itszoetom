@@ -35,9 +35,9 @@ Data Science Researcher, student leader, and environmentalist passionate about u
 
 <h2>Current Focus</h2>
 
-- Leading <b>Oregon Quant Group</b> starting Summer 2025  
+- Leading <b>University of Oregon's Quantitative Finance Group</b> and collaborating on data modeling research projects for financial investing. 
 - Advancing <b>sustainable finance research</b> using data to show renewables make economic profit  
-- Building interactive dashboards & modeling tools for <b>budget optimization</b> and <b>scenario analysis</b>  
+- Building interactive dashboards & modeling tools for <b>budget optimization</b> and <b>scenario analysis</b> with DLB Associates  
 - Exploring options for <b>graduate study</b> in machine learning, energy systems, and sustainable business  
 
 <blockquote>“Data doesn’t just describe the world — it can help <i>design</i> the future we want.”</blockquote>
