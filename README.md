@@ -9,8 +9,6 @@ Data Science Researcher, student leader, and environmentalist passionate about u
 
 <hr style="width: 85%; margin-left: 0; border: 1px solid #ccc;" />
 
-<hr style="width: 65%; margin-left: 0; border: 1px solid #ccc;" />
-
 <h2>Current Focus</h2>
 
 - Leading <b>University of Oregon's Quantitative Finance Group</b> and collaborating on data modeling research projects for financial investing. 
