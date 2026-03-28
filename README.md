@@ -7,14 +7,7 @@
 Data Science Researcher, student leader, and environmentalist passionate about using <b>data, modeling, and machine learning</b> to produce <b>AI solutions</b> and shift systems toward a <b>renewable, net-zero future</b>.
 </p>
 
-<hr style="width: 85%; margin-left: 0; border: 1px solid #ccc;" />
-
-<h2>Current Focus</h2>
-
-- Leading <b>University of Oregon's Quantitative Finance Group</b> and collaborating on data modeling research projects for financial investing. 
-- Advancing <b>sustainable finance research</b> using data to show renewables make economic profit  
-- Building interactive dashboards & modeling tools for <b>budget optimization</b> and <b>scenario analysis</b> with DLB Associates  
-- Exploring options for <b>graduate study</b> in machine learning, energy systems, and sustainable business  
+<hr style="width: 85%; margin-left: 0; border: 1px solid #ccc;" /> 
 
 <blockquote>“Data doesn’t just describe the world — it can help <i>design</i> the future we want.”</blockquote>
 
