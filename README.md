@@ -4,8 +4,6 @@
 
 <blockquote>“Data doesn’t just describe the world — it can help <i>design</i> the future we want.”</blockquote>
 
-<hr style="width: 65%; margin-left: 0; border: 1px solid #ccc;" />
-
 <h2>Let’s Connect</h2>
 
 <p>
