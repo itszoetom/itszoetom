@@ -2,8 +2,6 @@
   Zoe Tomlinson
 </h1>
 
-<blockquote>“Data doesn’t just describe the world — it can help <i>design</i> the future we want.”</blockquote>
-
 <h2>Let’s Connect</h2>
 
 <p>
