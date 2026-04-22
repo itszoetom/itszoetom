@@ -2,7 +2,7 @@
   Zoe Tomlinson
 </h1>
 
-<h2>Let’s Connect</h2>
+Let’s Connect!
 
 <p>
 <a href="https://www.linkedin.com/in/zoe-tomlinson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
