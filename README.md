@@ -3,10 +3,6 @@
   <img src="https://github.com/user-attachments/assets/254ccc0e-69d8-48fa-9ffa-ae835b845243" alt="Favorite-Aragon-Photo-6" width="160" align="right" />
 </h1>
 
-<p>
-Data Science Researcher, student leader, and environmentalist passionate about using <b>data, modeling, and machine learning</b> to produce <b>AI solutions</b> and shift systems toward a <b>renewable, net-zero future</b>.
-</p>
-
 <hr style="width: 85%; margin-left: 0; border: 1px solid #ccc;" /> 
 
 <blockquote>“Data doesn’t just describe the world — it can help <i>design</i> the future we want.”</blockquote>
